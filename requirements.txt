@@ -1,0 +1,2 @@
+Pandas version: 2.2.2
+matplotlib version: 2.2.2
