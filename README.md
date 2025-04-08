@@ -1,5 +1,5 @@
 ## MyPythonProject :
-LA Crime project 2.ipynb
+LA_Crime_Project.ipynb
 ## Dataset :
 This project uses the Crime_Data_from_2020_to_Present.csv dataset, which contains crime data. Due to github's file size limit (100 MB), the dataset could not be uploaded here.
 
@@ -12,12 +12,12 @@ The dataset contains the following columns:
 division_number,	date_reported,	date_occurred,	area,	area_name,	reporting_district,	crime_code	,crime_description,	modus_operandi, victim_age	, victim_sex	, victim_descent,	premise_code,	premise_description,	weapon_code,	weapon_description,	status,	status_description, crime_code_1,	crime_code_2,	crime_code_3,	crime_code_4,	location	cross_street,	latitude	longitude.
 
 ## How to access the Dataset :
-To run this project , download the dataset from the source link above and place it in a folder named 'Data for Python course' in the project directory. The notebook ('LA Crime project 2.ipynb') expects the file at the path ''Data for python course/Crime_Data_from_2020_to_Present.csv'
+To run this project , download the dataset from the source link above and place it in a folder named 'Data for Python course' in the project directory. The notebook ('LA_Crime_Project.ipynb') expects the file at the path ''Data for python course/Crime_Data_from_2020_to_Present.csv'
 
 - Path : ['Downloads/Python course/Data for python course/Crime_Data_from_2020_to_Present.csv ']
 - shareable link for .csv :[http://localhost:8888/lab/tree/Downloads/Python%20course/Data%20for%20python%20course/Crime_Data_from_2020_to_Present.csv]
 
- ## LA Crime project 2.ipynb : Contains advance knowledge of pandas, matplotlib, graph, queries, styles, colours.
+ ## LA_Crime_Project.ipynb : Contains advance knowledge of pandas, matplotlib, graph, queries, styles, colours.
                     ** Analysis of LA crime data . You can get the excel.csv file from chrome with name (Crime_Data_from_2020_to_Present.csv).
                     ** Data visualization with matplotlib.
                    
