@@ -23,7 +23,7 @@ This repository contains Jupyter Notebooks from my python course , incuding data
 2. Clone this repository: 'git clone https://github.com/Swarali-panchal/MyPythonProject.git'
 3. Navigate to folder : 'cd MyPythonProject'
 4. Launch Jupyter Notebook: 'jupyter notebook'
-5. Open 'LA Crime Project 2.ipynb or matplotlib 2.ipynb and run all cells.
+5. Open 'LA Crime Project 2.ipynb and run all cells.
 
 ## DEPENDENCIES
 - Python 3.x
